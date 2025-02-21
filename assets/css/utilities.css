@@ -1,0 +1,107 @@
+.h_section {
+    height: 200vh;
+}
+
+.h_header {
+    height: 8.5rem;
+}
+
+.w_15 {
+    width: 15%;
+}
+
+.h_footer {
+    height: 3rem;
+}
+
+.mb_1 {
+    margin-bottom: 0.1rem;
+}
+
+.mt_1 {
+    margin-top: 0.1rem;
+}
+
+.w_99 {
+    width: 99.8%;
+}
+
+.h_15 {
+    height: 15%;
+}
+
+.w_r {
+    width: 10rem;
+}
+
+.h_r {
+    height: 10rem;
+}
+
+.w_62 {
+    width: 62%;
+}
+
+.w_70 {
+    width: 70%;
+}
+
+.w_32 {
+    width: 32%;
+}
+
+.w_img {
+    width: 25rem;
+}
+
+.h_img {
+    height: 15rem;
+}
+
+.h_15 {
+    height: 15%;
+}
+
+.h_80 {
+    height: 80%;
+}
+
+.h_20 {
+    height: 20%;
+}
+
+.h_70 {
+    height: 70%;
+}
+
+.w_80 {
+    width: 80%;
+}
+
+.w_70 {
+    width: 70%;
+}
+
+.text_resize {
+    resize: none;
+}
+
+.h_15 {
+    height: 15%;
+}
+
+.h_10 {
+    height: 10%;
+}
+
+@media screen {
+    .w_100 {
+        width: 100%;
+    }
+}
+
+@media screen {
+    .w_img {
+        width: 95%;
+    }
+}
